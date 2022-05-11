@@ -5,5 +5,5 @@
   - [x] Age category -> ??
   - [x] Sex -> 1/0
   - [x] Race -> ???
-  - [ ] GenHealth "Very good" -> 1-5
+  - [x] GenHealth "Very good" -> 1-5
   - [x] Diabetic
