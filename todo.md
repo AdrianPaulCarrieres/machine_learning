@@ -4,6 +4,21 @@
   - [x] Yes/No -> 1/0
   - [x] Age category -> ??
   - [x] Sex -> 1/0
-  - [ ] Race -> ???
-  - [ ] GenHealth "Very good" -> 1-5
-  - [ ] 
+  - [x] Race -> ???
+  - [x] GenHealth "Very good" -> 1-5
+  - [x] Diabetic
+
+
+fn (age, race, sex, diabete) -> heart disease?
+
+
+
+
+
+fn (x) -> y
+
+vrai_y == y
+
+TEST
+
+
