@@ -7,3 +7,18 @@
   - [x] Race -> ???
   - [x] GenHealth "Very good" -> 1-5
   - [x] Diabetic
+
+
+fn (age, race, sex, diabete) -> heart disease?
+
+
+
+
+
+fn (x) -> y
+
+vrai_y == y
+
+TEST
+
+
