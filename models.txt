@@ -1,0 +1,28 @@
+Random Forest
+Accuracy Train: 0.6713115181879861
+Accuracy Test: 0.6738918655625913
+
+Logistic Regression
+Accuracy Train: 0.6713115181879861
+Accuracy Test: 0.6738918655625913
+
+Naive Bayes
+Accuracy Train: 0.6713115181879861
+Accuracy Test: 0.6738918655625913
+
+XGBoost
+Accuracy Train: 0.6713115181879861
+Accuracy Test: 0.6738918655625913
+
+AdaBoost
+Accuracy Train: 0.6713115181879861
+Accuracy Test: 0.6738918655625913
+
+Bagging
+Accuracy Train: 0.6713115181879861
+Accuracy Test: 0.6738918655625913
+
+Decision Tree
+Accuracy Train: 0.6713115181879861
+
+efficace 😬
